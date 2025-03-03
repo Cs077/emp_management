@@ -1,0 +1,2 @@
+An Employee Management System is a software application designed to manage various aspects of employee data within an organization. The system typically handles functions such as adding, updating, deleting, and retrieving employee records. These operations are commonly referred to as CRUD operations: Create, Read, Update, Delete.
+For this specific Employee Management System, we will implement it using Core Java, JDBC (Java Database Connectivity), and MySQL as the database.
